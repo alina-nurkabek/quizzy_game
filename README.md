@@ -66,10 +66,5 @@ QuizGame is a simple quiz game built with HTML, CSS, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is licensed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
